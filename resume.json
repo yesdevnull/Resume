@@ -1,0 +1,37 @@
+{
+	"basics": {
+		"name": "Dan Barrett",
+		"label": "Digital Developer & Systems Engineer",
+		"picture": "",
+		"email": "dan@danbarrett.com.au",
+		"phone": "+61 407 552 276",
+		"website": "https://www.yesdevnull.net",
+		"location": {
+			"city": "Belmont",
+			"region": "Western Australia"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "yesdevnull",
+				"url": "https://github.com/yesdevnull"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "LivingBrand",
+			"position": "Digital Developer",
+			"startDate": "2014-05-26",
+			"summary": "Sole Digital Developer at LivingBrand, providing clients with wonderfully designed sites",
+			"highlights": [
+				"Use Grunt for development and deployment processes"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English"
+		}
+	]
+}
