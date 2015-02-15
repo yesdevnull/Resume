@@ -25,13 +25,97 @@
 			"startDate": "2014-05-26",
 			"summary": "Sole Digital Developer at LivingBrand, providing clients with wonderfully designed sites",
 			"highlights": [
-				"Use Grunt for development and deployment processes"
+				"Used Grunt for development and deployment processes",
+				"Developed client websites and internal plugins for WordPress",
+				"Developed internal software using Laravel"
+			]
+		},
+		{
+			"company": "Dan Barrett IT Contracting",
+			"position": "Systems Engineer Contractor",
+			"startDate": "2014-02-12",
+			"summary": "Dan Barrett IT Contracting provides Mac and network installation, configuration and ongoing support for small to medium businesses.",
+			"highlights": [
+				"Currently contracted by Crunch IT",
+				"Use of ConnectWise to manage jobs and tickets",
+				"Online, phone call and onsite support for clients",
+				"Provide technical support for clients on both OS X and Windows platforms",
+				"Perform workstation and server maintenance through Apple Remote Desktop",
+				"Assisted in internal infrastructure maintenance",
+				"Contributed to internal procedures and scripts"
+			]
+		},
+		{
+			"company": "Streetwise Software",
+			"position": "Service Technician & SME Consultant",
+			"startDate": "2010-03-10",
+			"endDate": "2014-02-07",
+			"summary": "Streetwise is an Authorised Apple Reseller and Apple Authorised Service Provider employing over 15 people.",
+			"highlights": [
+				"Work with members of the service department to run an efficient repair workshop while maintaining a high level of repair quality, working safely, and customer satisfaction",
+				"Analyse, fault-find and repair Apple computers",
+				"Provide customer support via email, telephone and in-store",
+				"Configure, deploy, install and maintain OS X Servers in small-to-medium enterprise",
+				"Prepare customer proposals for business and small enterprise computing solutions",
+				"Perform home and onsite visits for private and business customers",
+				"Assist with maintenance and ongoing support of internal infrastructure",
+				"Managed and maintained internal infrastructure while Service Manager was on leave"
+			]
+		},
+		{
+			"company": "Peter Rowland Catering",
+			"position": "Back of House / Runner",
+			"startDate": "2009-04-10",
+			"endDate": "2010-03-07",
+			"summary": "I have worked at many functions where I have been in the “back of house” position which involved the assembly of food in a precise and speedy manner then washing dishes.  I have also worked on emergency clean-ups which have required me to be at work very late at night, or very early in the morning.  In addition to the function work, I have worked at major events like the MotoGP and the Spring Racing Carnival where I have worked as a runner.  As a runner I have received many commendations from cliental and senior members of Peter Rowland Catering.",
+			"highlights": [
+				"Prepared and assembled food in accordance to stringent food safety and handling procedures",
+				"Served alcoholic/non-alcoholic beverages to customers and following my responsibility as a holder of a Responsible Service of Alcohol certificate holder",
+				"Handled cash money and operated a till over several days at the 2010 Kooyong Classic",
+				"Cleaned up facilities using a number of different chemicals safely"
+			]
+		},
+		{
+			"company": "South Solitary (Film)",
+			"position": "Grip Assistant",
+			"startDate": "2009-09-01",
+			"endDate": "2009-09-30",
+			"summary": "I worked as a member of the Grips department on the filming of “South Solitary” at Cape Nelson, Victoria.  I picked up many new skills and knowledge of how the film industry works."
+		},
+		{
+			"company": "Reicher & Szylit Amcal Pharmacy Ormond",
+			"position": "Delivery Assistant",
+			"startDate": "2005-08-16",
+			"endDate": "2008-06-12",
+			"summary": "During my years of service for the Reicher & Szylit Amcal Pharmacy located in Ormond, Victoria I supplied the local residents with their pharmaceutical products.  As this job required a strong knowledge of map reading, I was quite successful and fast because I planned out the quickest routes using pathfinding techniques."
+		},
+		{
+			"company": "Fairweather Homes",
+			"position": "Work Experience",
+			"highlights": [
+				"Evaluated and reviewed architectural plans for residential housing",
+				"Assembled card models of houses from plans"
 			]
 		}
 	],
 	"languages": [
 		{
-			"language": "English"
+			"language": "English",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [
+		{
+			"name": "Mountain Bike Riding"
+		},
+		{
+			"name": "Web Development"
+		},
+		{
+			"name": "Architecture"
+		},
+		{
+			"name": "Furniture Design"
 		}
 	]
 }
