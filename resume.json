@@ -98,6 +98,49 @@
 			]
 		}
 	],
+	"education": [
+		{
+			"institution": "High School",
+			"area": "St. Michael's Grammar School",
+			"studyType": "VCE",
+			"startDate": "2002-02-02",
+			"endDate": "2008-10-10"
+		}
+	],
+	"awards": [
+		{
+			"title": "IT Challenge - Web Design",
+			"date": "2008-09-16",
+			"awarder": "Monash University",
+			"summary": "I was awarded first prize for my blog's WordPress theme."
+		}
+	],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "Artisan",
+			"keywords": [
+				"PHP",
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"jQuery",
+				"RequireJS",
+				"Grunt",
+				"WordPress",
+				"Laravel"
+			]
+		},
+		{
+			"name": "Systems Administration",
+			"level": "Intermediate",
+			"keywords": [
+				"Command line administration",
+				"Bash scripting",
+				"Configuration and deployment of LAMP stacks"
+			]
+		}
+	],
 	"languages": [
 		{
 			"language": "English",
