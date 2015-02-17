@@ -6,6 +6,7 @@
 		"email": "dan@danbarrett.com.au",
 		"phone": "+61 407 552 276",
 		"website": "https://www.yesdevnull.net",
+		"summary": "I am a hard working individual with a passion for all things web development.",
 		"location": {
 			"city": "Belmont",
 			"region": "Western Australia"
@@ -95,6 +96,15 @@
 			"highlights": [
 				"Evaluated and reviewed architectural plans for residential housing",
 				"Assembled card models of houses from plans"
+			]
+		},
+		{
+			"company": "CSC Australia",
+			"position": "Work Experience",
+			"highlights": [
+				"Assisted National Security Manager testing security devices in an ASIO and Defence rated building",
+				"Set up office space and configured security phones in an ASIO and Defence rated building",
+				"Set up and managed entertainment systems for International CEO and Team CSC visit in January 2008"
 			]
 		}
 	],
