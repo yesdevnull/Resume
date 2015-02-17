@@ -24,11 +24,14 @@
 			"company": "LivingBrand",
 			"position": "Digital Developer",
 			"startDate": "2014-05-26",
-			"summary": "Sole Digital Developer at LivingBrand, providing clients with wonderfully designed sites",
+			"summary": "Sole Digital Developer at LivingBrand where we provide clients with wonderfully designed sites that are lightning quick.",
 			"highlights": [
 				"Used Grunt for development and deployment processes",
 				"Developed client websites and internal plugins for WordPress",
-				"Developed internal software using Laravel"
+				"Developed internal software using Laravel",
+				"Supercharge websites with optimised JavaScript and CSS",
+				"Wrote client facing documentation for use with their website",
+				"Used Git in both the command-line and Tower.app"
 			]
 		},
 		{
