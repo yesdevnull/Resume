@@ -21,9 +21,19 @@
 	},
 	"work": [
 		{
+			"company": "Humaan",
+			"position": "Web Developer",
+			"startDate": "2015-05-11",
+			"summary": "Back-end Developer responsible for WordPress sites that are fully customisable by the clients.",
+			"highlights": [
+				"Converted static sites from Front-end developers to fully editable WordPress templates"
+			]
+		},
+		{
 			"company": "LivingBrand",
 			"position": "Digital Developer",
 			"startDate": "2014-05-26",
+			"endDate": "2015-05-08",
 			"summary": "Sole Digital Developer at LivingBrand where we provide clients with wonderfully designed sites that are lightning quick.",
 			"highlights": [
 				"Used Grunt for development and deployment processes",
